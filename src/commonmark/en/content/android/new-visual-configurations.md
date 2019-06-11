@@ -86,7 +86,7 @@ Tracker and Event capture now have the ability to render colours for programs, s
 In the Android App, the color will be rendered as background color for programs and stages combined with an icon (if selected). For options it renders as the background colour during data entry form for single event programs. When the user selects a program with an assigned colour, that colour becomes the background theme for all screens in the domain of the program.
 
 ![](resources/images/image19.png){ width=25%}
-![](resources/images/image2.png){ width=25%}
+![](resources/images/image2.PNG){ width=25%}
 
 > **Note**
 >
@@ -99,13 +99,13 @@ In the Android App, the color will be rendered as background color for programs 
 **Program Section**: when used in combination with icons, a Program Section with a single data element and associated Option Set can render the options in sequential or matrix layout (see screenshots).
 
 ![](resources/images/image26.png){ width=25%}
-![](resources/images/image36.png){ width=25%}
+![](resources/images/image36.PNG){ width=25%}
 
 > **Note**
 >
 > Render type for sections will first be available in the Android app, followed in future releases by the new web-based Capture App UI.
 
-## New Calendar (Tracker Progra)
+## New Calendar (Tracker Program)
 Now it is possible to use two different calendars when making a new enrollment. The one on the left is the first to appear but you can change it by clicking on the calendar icon on the lower left corner. 
 
 ![](resources/images/image60.png){ width=25%}
@@ -113,4 +113,5 @@ Now it is possible to use two different calendars when making a new enrollment. 
 
 > **Note**
 >
-> [ANDROAPP-2191] (https://jira.dhis2.org/browse/ANDROAPP-2191):For Android versions 4.4,  5.1 and small devices, the Accept option is not visible in the second calendar view. 
+> [ANDROAPP-2191] (https://jira.dhis2.org/browse/ANDROAPP-2191). For Android versions 4.4,  5.1 and small devices, the Accept option is 
+> not visible in the second calendar view. 

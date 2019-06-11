@@ -94,7 +94,6 @@ In the Android App, the color will be rendered as background color for programs 
 
 ## Rendering Types for Program Sections
 
-
 ![](resources/images/image16.png){width=80% }
 
 **Program Section**: when used in combination with icons, a Program Section with a single data element and associated Option Set can render the options in sequential or matrix layout (see screenshots).
@@ -105,3 +104,13 @@ In the Android App, the color will be rendered as background color for programs 
 > **Note**
 >
 > Render type for sections will first be available in the Android app, followed in future releases by the new web-based Capture App UI.
+
+## New Calendar (Tracker Progra)
+Now it is possible to use two different calendars when making a new enrollment. The one on the left is the first to appear but you can change it by clicking on the calendar icon on the lower left corner. 
+
+![](resources/images/image60.png){ width=25%}
+![](resources/images/image61.png){ width=25%}
+
+> **Note**
+>
+> [ANDROAPP-2191] (https://jira.dhis2.org/browse/ANDROAPP-2191):For Android versions 4.4,  5.1 and small devices, the Accept option is not visible in the second calendar view. 

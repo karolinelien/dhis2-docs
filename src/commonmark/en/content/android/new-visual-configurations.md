@@ -69,7 +69,6 @@ In the Android App icons render in the home screen to illustrate all the program
 
 ![](resources/images/image19.png){ width=25%}
 ![](resources/images/image26.png){ width=25%}
-![](resources/images/image36.png){ width=25%}
 
 > **Note**
 >

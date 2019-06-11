@@ -35,7 +35,7 @@ You can set your icon in the wallpaper using the DHIS 2 App Widget. The icon wil
 
 You can set the generic theme of the app by configuring the them in our server:
 
-![](resources/images/image28.png){width=25% }
+![](resources/images/image28.png){width=80% }
 
 > **Note**
 >

@@ -107,8 +107,13 @@ In the Android App, the color will be rendered as background color for programs 
 
 ## New Calendar (Tracker Program)
 
-Now it is possible to use two different calendars when making a new enrollment. The one on the left is the first to appear but you can change it by clicking on the calendar icon on the lower left corner. [ANDROAPP-2191] (https://jira.dhis2.org/browse/ANDROAPP-2191). For Android versions 4.4,  5.1 and small devices, the Accept option is not visible in the second calendar view.
-
+Now it is possible to use two different calendars when making a new enrollment. The one on the left is the first to appear but you can change it by clicking on the calendar icon on the lower left corner. 
 ![](resources/images/image60.png){ width=25%}
 ![](resources/images/image61.png){ width=25%}
+
+> **Note**
+> [ANDROAPP 2191] (https://jira.dhis2.org/browse/ANDROAPP-2191). For Android versions 4.4,  5.1 and small devices, the Accept option is
+> not visible in the second calendar view.
+
+
 

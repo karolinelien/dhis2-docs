@@ -20,22 +20,22 @@ There are two ways to access the application:
     >
     > You are able to make an *offline* login only if using the same user as the last online session.
  
-![](resources/images/image62.png){ width=25%}
-![](resources/images/image63.png){ width=25%}
+![](resources/images/image62.PNG){ width=25%}
+![](resources/images/image63.PNG){ width=25%}
  
 ### Account Recovery
 
 The users will be able to restore their own password if they have the setting enabled: Enabled User Account Recovery.
 
-![](resources/images/image64.png){ width=25%}
+![](resources/images/image64.PNG){ width=25%}
 
 ### Blocking session (PIN)
 
 User is able to lock the session using a 4 digit PIN. This allows to move to other apps in your phone without deleting the local data.
 If the user forgets the PIN number, log in by entering the credentials is also available.
 
-![](resources/images/image65.png){width=25%}
-![](resources/images/image63.png){width=25%}
+![](resources/images/image65.PNG){width=25%}
+![](resources/images/image63.PNG){width=25%}
 
 ### Instructions/ information buttons
 
@@ -80,7 +80,7 @@ User must check the box to select the org unit wanted.
 
 ### Differentiating tracker and event programs
 
-![](resources/images/image71.png){ width=25%}
+![](resources/images/image71.PNG){ width=25%}
 
 > **Tip**
 >
@@ -126,8 +126,8 @@ All tracker programs will take the user to the search screen. The search fields 
 At first, the user is obligated to make a search. if there are no coincidences, the search button will change to an ‘Add’ button for the user to create a new enrollment.
 
 
-![](resources/images/image78.png){ width=25%}
-![](resources/images/image79.png){ width=25%}
+![](resources/images/image78.PNG){ width=25%}
+![](resources/images/image79.PNG){ width=25%}
 
 ### Search screen for all Tracked Entity Type
 

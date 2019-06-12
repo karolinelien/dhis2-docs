@@ -61,10 +61,10 @@ Allows the user to filter data from the available programs based on periods (spe
 
 Allows the user to check sync information for a specific program.
 
-![](resources/images/image67.png){ width=25%}
-![](resources/images/image68.png){ width=25%}
-![](resources/images/image69.png){ width=25%}
-![](resources/images/image70.png){ width=25%}
+![](resources/images/image67.png){ width=20%}
+![](resources/images/image68.png){ width=20%}
+![](resources/images/image69.png){ width=20%}
+![](resources/images/image70.png){ width=20%}
 
 ### Org unit
 

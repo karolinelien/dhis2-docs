@@ -95,16 +95,15 @@ User must check the box to select the org unit wanted.
 
 ### Complete event
 
-User must enter the event and then click the 'Done' button in the bottom right corner.
+User must enter the event and then click the 'END' button in the bottom right corner.
 
 ![](resources/images/image37.png){ width=25%}
 ![](resources/images/image74.png){ width=25%}
 
-Three options will be presented:
+Two options will be presented:
 
-1. Complete
-2. Complete and add new
-3. Complete later
+1. Finish and Complete
+2. Finish
 
 ![](resources/images/image75.png){ width=25%}
 

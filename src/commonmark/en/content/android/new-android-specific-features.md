@@ -20,28 +20,29 @@ There are two ways to access the application:
     >
     > You are able to make an *offline* login only if using the same user as the last online session.
  
- ![](resources/images/image39.png){ width=25%}
+![](resources/images/image62.png){ width=25%}
+![](resources/images/image63.png){ width=25%}
  
 ### Account Recovery
 
 The users will be able to restore their own password if they have the setting enabled: Enabled User Account Recovery.
 
-![](resources/images/image46.png){ width=25%}
+![](resources/images/image64.png){ width=25%}
 
 ### Blocking session (PIN)
 
 User is able to lock the session using a 4 digit PIN. This allows to move to other apps in your phone without deleting the local data.
 If the user forgets the PIN number, log in by entering the credentials is also available.
 
-![](resources/images/image18.png){width=25%}
-![](resources/images/image24.png){width=25%}
+![](resources/images/image65.png){width=25%}
+![](resources/images/image63.png){width=25%}
 
 ### Instructions/ information buttons
 
 A contextual guide opens the first time the user opens the App.
 
 ![](resources/images/image42.jpg){width=25%}
-![](resources/images/image12.png){width=25%}
+![](resources/images/image66.png){width=25%}
 
 > **Tip**
 >
@@ -55,6 +56,15 @@ Allows the user to filter data from the available programs based on periods (spe
 ![](resources/images/image10.jpg){ width=25%}
 ![](resources/images/image4.jpg){ width=25%}
 ![](resources/images/image8.jpg){ width=25%}
+
+### Sync Information
+
+Allows the user to check sync information for a specific program.
+
+![](resources/images/image67.jpg){ width=25%}
+![](resources/images/image68.jpg){ width=25%}
+![](resources/images/image69.jpg){ width=25%}
+![](resources/images/image70.jpg){ width=25%}
 
 ### Org unit
 
@@ -70,7 +80,7 @@ User must check the box to select the org unit wanted.
 
 ### Differentiating tracker and event programs
 
-![](resources/images/image33.png){ width=25%}
+![](resources/images/image71.png){ width=25%}
 
 > **Tip**
 >
@@ -78,8 +88,8 @@ User must check the box to select the org unit wanted.
 
 ### Sharing Data
 
-![](resources/images/image9.png){ width=25%}
-![](resources/images/image21.jpg){ width=25%}
+![](resources/images/image72.png){ width=25%}
+![](resources/images/image73.jpg){ width=25%}
 
 ## Program with registration specific features
 
@@ -88,7 +98,7 @@ User must check the box to select the org unit wanted.
 User must enter the event and then click the 'Done' button in the bottom right corner.
 
 ![](resources/images/image37.png){ width=25%}
-![](resources/images/image6.png){ width=25%}
+![](resources/images/image74.png){ width=25%}
 
 Three options will be presented:
 
@@ -96,18 +106,29 @@ Three options will be presented:
 2. Complete and add new
 3. Complete later
 
-![](resources/images/image5.png){ width=25%}
+![](resources/images/image75.png){ width=25%}
 
 
 > **Note**
 >
 > To verify if an event is completed look at the color of the box, it must be grey; and also have the label 'Event Completed' on it. It applies the same legend set than the web UI.
 
-### Reset search fields
+### Complete/Deactivate Enrollment
 
-![](resources/images/image25.png){ width=25%}
+To complete or deactivate an enrollment, click on ‘See details’ and actions will be available in the ‘Lock’ icon on the top right corner of the screen. 
+
+![](resources/images/image76.png){ width=25%}
+![](resources/images/image77.png){ width=25%}
+
+### Reset Search Fields
 
 All tracker programs will take the user to the search screen. The search fields are used to look up for a specific entity, and the circled arrow at the top right corner to reset the search. All fields will be in blank for the user to make a new search.
+
+At first, the user is obligated to make a search. if there are no coincidences, the search button will change to an ‘Add’ button for the user to create a new enrollment.
+
+
+![](resources/images/image78.png){ width=25%}
+![](resources/images/image79.png){ width=25%}
 
 ### Search screen for all Tracked Entity Type
 
@@ -151,22 +172,21 @@ Users should be able to navigate to the different enrollments from the list.
 
 The percentage of data completed in each event is shown in the top right corner of an event when it is opened after first registration.
 
-![](resources/images/image34.png){ width=25%}
-![](resources/images/image27.png){ width=25%}
-![](resources/images/image14.png){ width=25%}
+![](resources/images/image80.png){ width=25%}
+![](resources/images/image81.png){ width=25%}
 
-To complete an event click on the complete button. Three options will be offered
 
-1. Complete
-1. Complete and add new
-1. Complete later
+To complete an event click on the 'END' button. Two options will be offered
 
-![](resources/images/image35.png){ width=25%}
-![](resources/images/image31.png){ width=25%}
+1. Finish and Complete
+2. Finish
 
-You can also complete by clicking by clicking on the three dots at the top right corner of the screen, then Details, then click on the percentage and select 'complete and close' button.
+![](resources/images/image82.png){ width=25%}
+![](resources/images/image83.png){ width=25%}
 
-![](resources/images/image41.png){ width=25%}
+You can also complete by clicking on the three dots at the top right corner of the screen, then Details, then click on the percentage and select 'complete and close' button.
+
+![](resources/images/image84.png){ width=25%}
 
 
 > **Note**

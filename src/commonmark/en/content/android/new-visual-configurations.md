@@ -113,10 +113,8 @@ Now it is possible to use two different calendars when making a new enrollment. 
 ![](resources/images/image61.png){ width=25%}
 
 > **Note**
-> !<a href= "https://jira.dhis2.org/browse/ANDROAPP-2191"> [ANDROAPP 2191]!</a>For Android versions 4.4,  5.1 and small devices, the
-> Accept option is not visible in the second calendar view.
-> [this form](https://www.google.com/url).
-
+> [ANDROAPP 2191](https://jira.dhis2.org/browse/ANDROAPP-2191).
+> For Android versions 4.4,  5.1 and small devices, the Accept option is not visible in the second calendar view.
 
 
 

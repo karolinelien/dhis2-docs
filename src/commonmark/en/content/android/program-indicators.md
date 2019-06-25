@@ -33,5 +33,6 @@ Any issues around using a particular feature with Android are highlighted with a
 |Reporting Period Start<br/>reporting_period_start|Can be used in filters or expressions for comparing any date to the first date in each reporting period.|n/a|Indicators in the Android App are calculated in the domain of one TEI enrollment.||
 |Reporting Period End<br/>reporting_period_end|Can be used in filters or expressions for comparing any date to the last inclusive date in each reporting period.|n/a|Indicators in the Android App are calculated in the domain of one TEI enrollment.||
 
-\*[Documentation Reference](https://www.google.com/url?q=https://docs.dhis2.org/master/en/user/html/configure_program_indicator.html%23program_indicator_functions_variables_operators&sa=D&ust=1557433016643000)
+[Documentation Reference](https://www.google.com/url?q=https://docs.dhis2.org/master/en/user/html/configure_program_indicator.html%23program_indicator_functions_variables_operators&sa=D&ust=1557433016643000)
+<\br>
 \*DHIS 2 v2.32

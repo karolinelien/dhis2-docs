@@ -14,8 +14,10 @@ Any issues around using a particular feature with Android are highlighted with a
 ## Variables to use in a program indicator expression or filter
 | Variable type| Description of variable type|Status|Notes on implementation|
 |-|---|:-:|---|
-|Event Date<br/>event_date|The date of when the event took place.|✓||
-|Due Date<br/>due_date|The date of when an event is due.|✓||
+|Event Date<br/>event_date|The date of when the event took place.|![](resources/images/image3_icon.png)||
+|Creation Date\*<br/>creation_date|The date of when an event or enrollment was created in the system.|![](resources/images/image3_icon.png)||
+|Due Date<br/>due_date|The date of when an event is due.|![](resources/images/image3_icon.png)||
+|Sync Date\*<br/>sync_date|The date of when the event or enrollment was last synchronized with the Android app.|![](resources/images/image3_icon.png)||
 |Incident Date<br/>incident_date|The date of the incidence of the event.|✓||
 |Enrollment Date (not visible on UI)<br/>enrollment_date|The date of when the tracked entity instance was enrolled in the program.|✓||
 |Enrollment Status<br/>enrollment_status|Can be used to include or exclude enrollments in certain statuses.|&ndash;||
@@ -32,4 +34,4 @@ Any issues around using a particular feature with Android are highlighted with a
 |Reporting Period End<br/>reporting_period_end|Can be used in filters or expressions for comparing any date to the last inclusive date in each reporting period.|n/a|Indicators in the Android App are calculated in the domain of one TEI enrollment.||
 
 \*[Documentation Reference](https://www.google.com/url?q=https://docs.dhis2.org/master/en/user/html/configure_program_indicator.html%23program_indicator_functions_variables_operators&sa=D&ust=1557433016643000)
-
+\*DHIS 2 v2.32

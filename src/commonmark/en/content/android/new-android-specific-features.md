@@ -94,7 +94,7 @@ User must check the box to select the org unit wanted.
 
 ## Program with registration specific features
 
-### Complete event
+### Complete/Re-open event
 
 User must enter the event and then click the 'END' button in the bottom right corner.
 
@@ -113,6 +113,10 @@ Two options will be presented:
 >
 > To verify if an event is completed look at the color of the box, it must be grey; and also have the label 'Event Completed' on it. It applies the same legend set than the web UI.
 
+> **Note**
+>
+> The app needs to take into consideration if the user has the correct authority (‘Uncomplete events’) to reopen a completed event.
+
 ### Complete/Deactivate Enrollment
 
 To complete or deactivate an enrollment, click on ‘See details’ and actions will be available in the ‘Lock’ icon on the top right corner of the screen. 
@@ -122,9 +126,9 @@ To complete or deactivate an enrollment, click on ‘See details’ and actions 
 
 ### Reset Search Fields
 
-All tracker programs will take the user to the search screen. The search fields are used to look up for a specific entity, and the circled arrow at the top right corner to reset the search. All fields will be in blank for the user to make a new search.
+All tracker programs will take the user to the search screen. The search fields are used to look up for a specific entity, and the circled arrow at the top right corner to reset the search. All fields will be blank for the user to do a new search.
 
-At first, the user is obligated to make a search. if there are no coincidences, the search button will change to an ‘Add’ button for the user to create a new enrollment.
+At first, the user is obligated to do a search. if there are no coincidences, the search button will change to an ‘Add’ button for the user to create a new enrollment.
 
 
 ![](resources/images/image78.PNG){ width=25%}
@@ -165,6 +169,19 @@ Users should be able to navigate to the different enrollments from the list.
 
 ![](resources/images/image40.png){ width=25%}
 ![](resources/images/image7.png){ width=25%}
+
+### Delete TEI's & Enrollments
+
+To delete a TEI or an enrollment, select In the TEI dashboard, the three dots menu.
+
+Local TEI or Enrollment will be deleted from the database. Records that has been previously synced with the server will be marked for deletion if the user has the authority:
+
+F_ENROLLMENT_CASCADE_DELETE
+F_TEI_CASCADE_DELETE
+
+They will show in the TEI search list, but will not be accessible.
+
+![](resources/images/image86.png){ width=25%}
 
 ## Program without registration specific features
 

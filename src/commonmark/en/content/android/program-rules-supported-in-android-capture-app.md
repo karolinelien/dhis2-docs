@@ -38,7 +38,7 @@ Any issues around using a particular feature with Android are highlighted with a
 |Assign Value|Assigns a value to a specified data element or attribute if the rule is true.|✓|✓||
 |Show Warning|Shows pop-up warning to the user if rule is true; does not prevent the user from continuing.|✓|✓||
 |Warning on Complete|Shows a pop-up warning to the user if, at the point &lsquo;complete&rsquo; is clicked, a rule is true; this does not prevent the user from continuing.|✓|✓||
-|Show Error|Shows a pop-up error message to the user as soon as a rule is true, and prevents user from continuing until rule is no longer true.|✓|✓|!The field will be cleared out so that the user is unable to store a value unless it meets the criteria of the program rule.||
+|Show Error|Shows a pop-up error message to the user as soon as a rule is true, and prevents user from continuing until rule is no longer true.|✓|✓|The field will be cleared out so that the user is unable to store a value unless it meets the criteria of the program rule.||
 |Error on Complete|Shows a pop-up warning to the user if, when "complete"; is clicked, a rule is true, and prevents user from continuing until rule is no longer true.|✓|✓||
 |Make Field Mandatory|Sets a data element as "mandatory"; if rule is true.|✓|✓||
 |Display Text (Event Programs)|Used to display information that is not an error or a warning, for example feedback.|✓|✓| Independently from the source variable type, text will be displayed in the form as the last element of the last section. Text will be displayed as the messages in the indicators tab.||

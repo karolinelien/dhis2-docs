@@ -176,7 +176,7 @@ To delete a TEI or an enrollment, select In the TEI dashboard, the three dots me
 
 Local TEI or Enrollment will be deleted from the database. Records that has been previously synced with the server will be marked for deletion if the user has the authority:
 
-F_ENROLLMENT_CASCADE_DELETE
+F_ENROLLMENT_CASCADE_DELETE</br>
 F_TEI_CASCADE_DELETE
 
 They will show in the TEI search list, but will not be accessible.

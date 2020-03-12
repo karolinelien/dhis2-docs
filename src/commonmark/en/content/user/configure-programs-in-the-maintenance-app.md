@@ -3502,7 +3502,7 @@ programs.
 6.  (Optional) Type a **Description**.
 
 7. (Optional) In the **Field mask** field, you may type a template that's used to provide
-   hints for correct formatting of the attribute in Capture and Tracker Capture apps.
+   hints for correct formatting of the attribute. *NOTE: So far only implemented in the DHIS2 Android Capture app, not in Capture and Tracker Capture apps.*
    The following are special characters that can be used in the mask. The special characters match exactly one character of the given type.
 
    | Character     |    Match       |
